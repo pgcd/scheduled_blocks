@@ -19,7 +19,7 @@ setup(
     author_email='pgcd93@gmail.com',
     packages=find_packages(),
     include_package_data=True,
-    url='<Include Link to Project>',
+    url='https://github.com/pgcd/scheduled_blocks',
     license='Simplified BSD',
     description=u' '.join(__import__('scheduled_blocks').__doc__.splitlines()).strip(),
     classifiers=[
